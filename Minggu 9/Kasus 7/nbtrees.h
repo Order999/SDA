@@ -1,3 +1,10 @@
+/* Program ini dibuat oleh:
+Nama         : Ivan Setiawan Ihsan
+NIM          : 241524012
+Kelas        : 1-A/D4 Teknik Informatika
+Dibuat pada  : 17 Mei 2025
+*/
+
 #ifndef nbtrees_h
 #define nbtrees_h
 
